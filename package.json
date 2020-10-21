@@ -1,0 +1,12 @@
+{
+  "name": "@systerra/authentication_middleware",
+  "version": "0.3.4",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "seneca": "^3.17.0"
+  }
+}
